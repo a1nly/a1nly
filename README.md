@@ -1,7 +1,6 @@
 - 👋 Oi, eu sou @a1nly
 - 👀 Tenho interesse em Kpop e Dança
 - 🌱 Atualmente estou aprendendo programação
-- 💞️ Procuro colaborar em NextFit
 - 📫 Como entrar em contato comigo: @a1nly no instagram.
 - 😄 Pronomes: ela/dela
 - ⚡ Curiosidade: coleciono fotos de coreanos.
