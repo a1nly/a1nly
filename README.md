@@ -1,10 +1,5 @@
-- 👋 Oi, eu sou @a1nly
-- 👀 Tenho interesse em Kpop e Dança
-- 🌱 Atualmente estou aprendendo programação
-- 📫 Como entrar em contato comigo: @a1nly no instagram.
-- 😄 Pronomes: ela/dela
-- ⚡ Curiosidade: coleciono fotos de coreanos.
-<!---
-a1nly/a1nly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Oi, me chamo Alice Carvalho Fabris. :)
+- Este perfil foi feito com objetivo de compartilhar meus projetos de programaçã, tendo auxílio dos meus professores.
+-  Atualmente estou aprendendo Python, C#, Java, HTML, PHP, entre outras.
+- Você pode entrar em contato comigo acessando @a1nly no instagram. 😉
+
